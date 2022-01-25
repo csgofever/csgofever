@@ -1,13 +1,13 @@
 <img src="https://komarev.com/ghpvc/?username=csgofever&label=Visitor count&color=ff00ff&style=flat" alt="csgofever" />
-<h1 align="center">Hi, I'm Zenz/csgofever. </h1>
+<h1 align="center">Hi, I'm Zenz/csgofever/z6rky. </h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=csgofever&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&count_private=true&show_icons=true" alt="csgofever" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csgofever&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&layout=compact" alt="csgofever" /></p>
 <h3 align="left">Info: </h3>
 
-   - 🌱 C++ Paster
-   - 🛑 C# Paster
+   - 🤓 C++ Paster
+   - 🥶 C# Paster
 <h3 align="left">Discord</h3>
 <p align="left">
 </p>
